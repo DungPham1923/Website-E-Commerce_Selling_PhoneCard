@@ -1,0 +1,11 @@
+<svg id="mastercard" xmlns="http://www.w3.org/2000/svg" width="104" height="52" viewBox="0 0 104 52">
+  <g id="boundingbox" fill="rgba(255,0,0,0.1)" stroke="red" stroke-width="1" stroke-dasharray="4 4" opacity="0">
+    <rect width="104" height="52" stroke="none"/>
+    <rect x="0.5" y="0.5" width="103" height="51" fill="none"/>
+  </g>
+  <g id="Group_18357" data-name="Group 18357" transform="translate(22.88 8)">
+    <rect id="Rectangle_5118" data-name="Rectangle 5118" width="15.748" height="28.301" transform="translate(21.245 3.85)" fill="#ff5f00"/>
+    <path id="Path_8617" data-name="Path 8617" d="M22.245,18.005A17.968,17.968,0,0,1,29.119,3.852a18,18,0,1,0,0,28.3,17.968,17.968,0,0,1-6.874-14.148" transform="translate(0 -0.003)" fill="#eb001b"/>
+    <path id="Path_8618" data-name="Path 8618" d="M87.367,18A18,18,0,0,1,58.246,32.152a18,18,0,0,0,0-28.3A18,18,0,0,1,87.367,18Z" transform="translate(-29.127 -0.001)" fill="#f79e1b"/>
+  </g>
+</svg>
